@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+pdfplumber>=0.10.0
+pypdf>=3.17.0
+faiss-cpu>=1.7.4
+ollama>=0.1.6
+numpy>=1.24.0
+pandas>=2.0.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+easyocr>=1.7.0

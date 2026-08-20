@@ -1,0 +1,86 @@
+================================================================================
+          DOCUSENSE AI (TEAM 2) — COMPLETE PROJECT PROMPTS HISTORY
+               Hack & Fest AI Innovation Hackathon — SRM IST
+================================================================================
+
+--------------------------------------------------------------------------------
+📌 Stage 1: Project Kickoff & Initial Hackathon Requirements
+--------------------------------------------------------------------------------
+Hack & Fest — SRM Institute of Science and Technology (AI Innovation Hackathon - Day 4)
+Problem Statement 1.2: Contract & Policy Clause Explainer (Team 2)
+
+Ollama local models available:
+- nomic-embed-text:latest
+- llama3.2:latest
+
+Requirements:
+- 100% local, offline development using Python, Streamlit, and local Ollama LLMs (no external APIs/keys).
+- Convert Stitch UI design (ClauseGuard AI) into Streamlit application architecture.
+- Core functions: PDF upload, document processing, clause analysis, RAG Q&A, and risk detection.
+
+--------------------------------------------------------------------------------
+📌 Stage 2: PDF Format Audit Export
+--------------------------------------------------------------------------------
+i need to dowload in pdf format also not only on md file
+
+--------------------------------------------------------------------------------
+📌 Stage 3: Enterprise UI Redesign & Safety Verdict System
+--------------------------------------------------------------------------------
+the ui theem of stitch is not good for frsher and i need clean and good okay.
+as i created the sticth mcp sever go created a plain good ui accoring theme requiremenst and make perfectly colors are not good becoz professional website wont use theme theme .
+and also in summary the policy reading tell user to join company or not with accurate score so all will be safe.
+document answer not responding. i can ask the document like policied and land polices also any polices so that go do it . i will ask the question to that to work and score alos i need to accept o not
+
+--------------------------------------------------------------------------------
+📌 Stage 4: Multi-Input, Native Language Translation & Rebranding
+--------------------------------------------------------------------------------
+in suggetsion of question i can also ask quetsion so make a text box to enter text?
+and alos i will upload landdocument to ak and use that> 
+instead of this name : ClauseGuard AI use other name for website to see good and attarctive in simply for user also
+
+not only browerfile it shoulb be working in text format also to read and and tellthey
+in document if i ask quetsion who is seller and owner also need .i willu se any ploicy not only land insurance of policy or company policy .
+when i ask question it shoulb be working based oonthat to answerr according to that.
+
+can u translate plain text to use people who are dont know english like conevert text from ducumnet is englist in plain explaination i s the use can tel what type of lineaguage he can undersand .  
+to mak euse type of button english,telugu tamil malayam and translation according to that.
+
+--------------------------------------------------------------------------------
+📌 Stage 5: EasyOCR Vision Engine & Document Legality Check
+--------------------------------------------------------------------------------
+fix that OCR Failed: Failed to extract text from image: tesseract is not installed or it's not in your PATH. See README file for more information.. Ensure Tesseract-OCR is installed. 
+and also i need one the fix everything bug clearly dont built like wastage and install if anything is required according to do that.
+
+why i uploaded the image file but ist coming like this:
+OCR Failed: Failed to extract text from image: 'charmap' codec can't encode character '\u2588' in position 12: character maps to <undefined> fix this problem after that explaination should be in output language .
+
+if i will upload image tell illgeal or legal policy also tell me that
+
+--------------------------------------------------------------------------------
+📌 Stage 6: RAG Grounding Fix, Indic Font Support & Sample Deed Update
+--------------------------------------------------------------------------------
+i asked who i sgoogle ceo of this comapny .but theat model is saying  
+"இந்த பொழுது, உங்கள் வினா 'கூக்ல் எஸ். எஸ். என்ற முதல் நிரந்தர பொறியாளர் செயல்படுத்துவதற்கான அங்கீகாரம்' என்பதை நினைவூட்டி, உங்களுக்கு சரியான பதில் அளிக்க முயற்சிக்கிறேன்."
+
+i dont want my model should be haliunation togenarat random text it should e coming form that pdf or image or text which i uploaded from that only i need no any other things .
+
+the report which i uploaded th ereport it shoulb e clear and undersatnd what happend and do this safe lie tat in report genration i dont want any lines or odts 
+it should be profilessionalism and output which language i selct the repotrt also should be selcted on based on output language . noot in english if i do tlugu means telugu tsmil means telugu 
+
+the translationin only next whihc details 5000 rupes are how that should be in original document english means englsih  
+
+[Includes Sample Land Sale Agreement: Kinathukadavu Parcel, Palanisamy/Muthusamy, Rs 45,00,000, 2.50 Acres]
+
+--------------------------------------------------------------------------------
+📌 Stage 7: Q&A UI Overhaul, Full-Context Answers & README Overhaul
+--------------------------------------------------------------------------------
+where is text box an dalso ist not giving proper answers from whcih i uploaded i need full clean and responsible work and also tobe worth .
+i need proper response and report genartion also i uploadd the text how it shoulb be there...
+
+and also make README FILE full clean i added team details an dhow app work from now how is read em file i sthere just enchan an dmake more product
+
+--------------------------------------------------------------------------------
+📌 Stage 8: Complete Prompt History Export Request
+--------------------------------------------------------------------------------
+give me all prompts which i used tillnow for this project from starting to end  
+so that i can make it pdf file it will be easy for to remeber and for evalution. alal i need in txt file itself no other
